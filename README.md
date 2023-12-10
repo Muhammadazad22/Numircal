@@ -1,7 +1,7 @@
 
 # Numerical
 This program lets you put any equation and finding the root for you using Biesction:
-https://colab.research.google.com/drive/1RQ3B8CSZS6TFWipQBNNpwmM5WKT0jFfU#scrollTo=aJJaMHM-SKkx
+https://colab.research.google.com/drive/1k68ogDqi_LR3TwQK0zsXo1DCIxN6556N?usp=sharing
 
 
 And This is the google sheet solution :
